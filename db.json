@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "contact": [
+    { "id": 1, "name": "Peter", "mobile": "94677846" },
+    { "id": 2, "name": "John", "mobile": "97693783" },
+    { "id": 3, "name": "Mary", "mobile": "63874987" },
+    { "id": 4, "name": "Ronny", "mobile": "93773663" }
+  ]
 }
